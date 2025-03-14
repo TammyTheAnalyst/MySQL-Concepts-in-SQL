@@ -1,5 +1,7 @@
 # MySQL-Concepts-in-SQL Project
 
+![Certificate of Completion](https://github.com/TammyTheAnalyst/MySQL-Concepts-in-SQL/blob/main/Certificate%20of%20Completion.png)
+
 This repository showcases my work and progress from an intermediate MYSQL course. The course covered a range of SQL concepts, some of which were more advanced, including transactions, views, triggers, and events. The goal of this project is to demonstrate my ability to work with various SQL concepts and implement them effectively within a database.
 
 By completing this project, I have achieved the following learning objectives:
